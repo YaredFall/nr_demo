@@ -1,0 +1,16 @@
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\НаучнаяРабота_пробная_версия.exe
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\НаучнаяРабота_пробная_версия.deps.json
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\НаучнаяРабота_пробная_версия.runtimeconfig.json
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\НаучнаяРабота_пробная_версия.runtimeconfig.dev.json
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\НаучнаяРабота_пробная_версия.dll
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\ref\НаучнаяРабота_пробная_версия.dll
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\НаучнаяРабота_пробная_версия.pdb
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.csproj.AssemblyReference.cache
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.AssemblyInfoInputs.cache
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.AssemblyInfo.cs
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.csproj.CoreCompileInputs.cache
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.dll
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\ref\НаучнаяРабота_пробная_версия.dll
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.pdb
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.genruntimeconfig.cache
