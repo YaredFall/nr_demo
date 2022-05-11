@@ -13,16 +13,5 @@ namespace НаучнаяРабота_пробная_версия
         {
             return Directory.GetParent(Environment.CurrentDirectory).Parent.FullName;
         }
-
-        public static string ToString<T>(this List<T> list)
-        {
-            string result = "";
-            foreach (T item in list)
-            {
-                result += item.ToString() + ", ";
-            }
-
-            return result.Substring(0, result.Length - 2);
-        }
     }
 }

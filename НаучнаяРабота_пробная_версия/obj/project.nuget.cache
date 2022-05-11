@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ColmDxRJ9jDaUfytLDKaOpnnGqtC4MTzaRuEBSqo5uc6kjbhJm4fyqqI6i8ZigOSD7150kB0pF3wlYHhyBOydg==",
+  "dgSpecHash": "pL6egj0K2dJiULWtHZhMuRtgXIjjqR2LJeW5PoIP05EGiZJUGH8tf2sue7HCVFS58+opr2lK1sQBrpkQX1Yamw==",
   "success": true,
   "projectFilePath": "C:\\Users\\YaredFall\\source\\repos\\nr_demo\\НаучнаяРабота_пробная_версия\\НаучнаяРабота_пробная_версия.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\YaredFall\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\YaredFall\\.nuget\\packages\\selenium.support\\4.1.1\\selenium.support.4.1.1.nupkg.sha512",
+    "C:\\Users\\YaredFall\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512",
+    "C:\\Users\\YaredFall\\.nuget\\packages\\selenium.webdriver.chromedriver\\101.0.4951.4100\\selenium.webdriver.chromedriver.101.0.4951.4100.nupkg.sha512"
+  ],
   "logs": []
 }

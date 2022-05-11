@@ -14,3 +14,7 @@ C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробна�
 C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\ref\НаучнаяРабота_пробная_версия.dll
 C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.pdb
 C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.genruntimeconfig.cache
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\WebDriver.dll
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\obj\Debug\net5.0\НаучнаяРабота_пробная_версия.csproj.CopyComplete
+C:\Users\YaredFall\source\repos\nr_demo\НаучнаяРабота_пробная_версия\bin\Debug\net5.0\WebDriver.Support.dll
