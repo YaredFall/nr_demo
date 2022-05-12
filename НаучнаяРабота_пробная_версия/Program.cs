@@ -92,9 +92,9 @@ namespace НаучнаяРабота_пробная_версия
             Product ironOre = new Product("iron ore", 10, null);
             Product ironIngot = new Product("iron ingot", 30, new ProductDict { { ironOre, 2 } });
             Product ironRod = new Product("iron rod", 50, new ProductDict { { ironIngot, 1 } });
-            Product awl = new Product("awl", 100, new ProductDict { { ironIngot, 1 }, { ironRod, 1 } });
+            Product hammer = new Product("hammer", 110, new ProductDict { { ironIngot, 1 }, { ironRod, 1 } });
 
-            var existingProducts = new List<Product> { ironOre, ironIngot, ironRod, awl };
+            var existingProducts = new List<Product> { ironOre, ironIngot, ironRod, hammer };
 
             ProductDict availableProducts = new ProductDict {
                 { ironOre, 10 },
@@ -104,10 +104,10 @@ namespace НаучнаяРабота_пробная_версия
 
             ProductManufacturer manufacturer = new ProductManufacturer(availableProducts);
 
-            Console.WriteLine(manufacturer.MaxCanBeManufactured(ironOre));
-            Console.WriteLine(manufacturer.MaxCanBeManufactured(ironIngot));
-            Console.WriteLine(manufacturer.MaxCanBeManufactured(ironRod));
-            Console.WriteLine(manufacturer.MaxCanBeManufactured(awl));
+            //Console.WriteLine(manufacturer.MaxCanBeManufactured(ironOre));
+            //Console.WriteLine(manufacturer.MaxCanBeManufactured(ironIngot));
+            //Console.WriteLine(manufacturer.MaxCanBeManufactured(ironRod));
+            //Console.WriteLine(manufacturer.MaxCanBeManufactured(hammer));
 
             UseWebsiteToSolve(existingProducts, availableProducts);
 
